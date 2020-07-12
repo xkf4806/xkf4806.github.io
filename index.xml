@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Java Developer</title>
     <link>https://xkf4806.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Java Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jul 2020 15:36:35 +0800</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sun, 12 Jul 2020 15:36:35 +0800</pubDate>
       
       <guid>https://xkf4806.github.io/posts/hugo/</guid>
-      <description>&amp;ndash; 搭建自己的hugo博客系统
- step1 安装hugo step2 创建自己的hugo站点 step3 下载hugo主题 step4 配置config.toml，添加theme和github.io信息 step5 执行命令，生成public文件夹并推送到github远端。  hugo </description>
+      <description>搭建自己的hugo博客系统  step1 安装hugo step2 创建自己的hugo站点 step3 下载hugo主题 step4 配置config.toml，添加theme和github.io信息 step5 执行命令，生成public文件夹并推送到github远端。  hugo </description>
     </item>
     
   </channel>
